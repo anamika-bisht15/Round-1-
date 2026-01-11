@@ -4,7 +4,7 @@
 ---
 
 # AI-Based Grievance Redressal System 🚀  
-**Hackathon Round 1 Submission**
+**Hackathon Round 2 Submission**
 
 ---
 
